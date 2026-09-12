@@ -1,0 +1,1 @@
+Este repositorio contiene el desarrollo del Desafío I para el curso de Informática II de la Universidad de Antioquia. El objetivo del proyecto es diseñar e implementar el juego Sweet Crush en lenguaje C++.
