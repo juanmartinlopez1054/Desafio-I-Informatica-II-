@@ -1,4 +1,5 @@
 using namespace std;
+#include "tablero.h"
 #include <cstdlib>
 
 int calcular_bits(int filas, int columnas){
